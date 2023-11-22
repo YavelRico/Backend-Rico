@@ -1,11 +1,29 @@
 [
   {
-    "title": "hola",
-    "description": "chau",
+    "title": "Dibujo",
+    "description": "Dibujo Digital",
     "price": 20,
-    "thumbnail": "img",
-    "code": "007",
-    "stock": 20,
+    "thumbnail": "../images/digital.png",
+    "code": "001",
+    "stock": 30,
     "id": 1
+  },
+  {
+    "title": "Pieza de Arte",
+    "description": "Tradicional",
+    "price": 30,
+    "thumbnail": "../images/tradicional.jpg",
+    "code": "002",
+    "stock": 30,
+    "id": 2
+  },
+  {
+    "title": "Modelaje",
+    "description": "Modelaje 3D - Diseño 3D",
+    "price": 50,
+    "thumbnail": "../images/modelaje.png",
+    "code": "003",
+    "stock": 20,
+    "id": 3
   }
 ]
